@@ -4,20 +4,41 @@
        "id":1,
        "title": "Main Hero Message for the menu section",
        "subtitle": "Sub-hero message, not too long and not too short. Make it just right!",
-       "fatherLink": "Dominios"
+       "fatherLink": "Dominios",
+      "submenu":[
+        {
+          "id": 3
+          "url" : "/",
+          "title": "Submenu 1"
+        }
+      ]
 
     },
     {
       "id":2,
        "title": "Main Hero Message for the menu section",
        "subtitle": "Sub-hero message, not too long and not too short. Make it just right!",
-       "fatherLink": "Dominios 2"
+       "fatherLink": "Dominios 2",
+      "submenu":[
+        {
+          "id": 3
+          "url" : "/",
+          "title": "Submenu 1"
+        }
+      ]
     },
     {
       "id":3,
        "title": "Main Hero Message for the menu section",
        "subtitle": "Sub-hero message, not too long and not too short. Make it just right!",
-       "fatherLink": "Dominios 3"
+       "fatherLink": "Dominios 3",
+      "submenu":[
+        {
+          "id": 3
+          "url" : "/",
+          "title": "Submenu 1"
+        }
+      ]
     }
   ]
 }
