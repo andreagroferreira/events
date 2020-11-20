@@ -1,51 +1,17 @@
 {
   "menus":[
-  {
+        {
             id:1,
             title: 'Main Hero Message for the menu section',
             subtitle: 'Sub-hero message, not too long and not too short. Make it just right!',
             fatherLink: 'Dominios',
-            links:[
-            {
-                href: '/',
-                title: 'Registe o seu dominio'
-              },
-              {
-                href: '/',
-                title: 'Consulte Preços'
-              },
-              {
-                href: '/',
-                title: 'Transfira o seu Dominio'
-              }, 
-              {
-                href: '/',
-                title: 'Revenda de Dominios'
-              }
-            ]
+          
         }, {
             id:2,
             title: 'Main Hero Message for the menu section',
             subtitle: 'Sub-hero message, not too long and not too short. Make it just right!',
             fatherLink: 'Dominios 2',
-            links:[
-            {
-                href: '/',
-                title: 'Registe o seu dominio'
-              },
-              {
-                href: '/',
-                title: 'Consulte Preços'
-              },
-              {
-                href: '/',
-                title: 'Transfira o seu Dominio'
-              }, 
-              {
-                href: '/',
-                title: 'Revenda de Dominios'
-              }
-            ]
+          
         }
   
   ]
