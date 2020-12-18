@@ -1,0 +1,32 @@
+{
+    "testemunhos":[
+        {
+            "id": 1,
+            "content": "Apoio constantes em todos os aspectos! Sempre com uma palavra, a qual se denota um serviço de excelência!",
+            "name" : "Ruben Craveiro",
+            "photo": "https://static.lusoaloja.pt/imagens/clientes/ruben_craveiro.jpg",
+            "date": "08/04/2019"
+        },
+         {
+            "id": 2,
+            "content": "Simplesmente a minha empresa de alojamento web de eleição! Sempre prontos a ajudar em qualquer dúvida. Já sou cliente da LusoAloja há alguns anos e não me arrependo em nada, inclusive recomendo a amigos.",
+            "name" : "Miguel Brandão",
+            "photo": "https://static.lusoaloja.pt/imagens/clientes/miguel_brandao.jpg",
+            "date": "25/10/2017"
+        },
+         {
+            "id": 3,
+            "content": "Excelente servico e equipa muito prestavel. Sempre disponiveis para qualquer duvida ou resolucao de problemas.",
+            "name" : "João Pereira",
+            "photo": "https://static.lusoaloja.pt/imagens/clientes/JoaoPereira.jpg",
+            "date": "24/01/2020"
+        },
+         {
+            "id": 1,
+            "content": "Sem duvida uns dos melhores atendimentos que já tive, competência e profissionalismo e de extrema eficiência Recomendado",
+            "name" : "Bruno Espada",
+            "photo": "https://static.lusoaloja.pt/imagens/clientes/bruno_espada.jpg",
+            "date": "13/06/2019"
+        }
+    ]
+}
