@@ -11,7 +11,7 @@
 "compopents": [
 {
 "id": "1",
-"image": "/../../assets/images/www.svg",
+"image": "/src/assets/images/www.svg",
 "title": "REGISTE O SEU DOMÍNIO",
 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin libero vitae nulla interdum, cursus interdum arcu eleifend.",
 "button": "Saiba Mais",
