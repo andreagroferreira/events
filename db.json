@@ -90,7 +90,7 @@
 "title": "ALOJAMENTO LINUX NVME",
 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin libero vitae nulla interdum, cursus interdum arcu eleifend.",
 "button": "Saiba Mais",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "id": "6",
@@ -98,7 +98,7 @@
 "title": "ALOJAMENTO PROFISSIONAL NVME",
 "description": "Lorem ipsum fdolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin libero vitae nulla interdum, cursus interdum arcu eleifend.",
 "button": "Saiba Mais",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "id": "7",
@@ -106,7 +106,7 @@
 "title": "ALOJAMENTO WINDOWS NVME",
 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin libero vitae nulla interdum, cursus interdum arcu eleifend.",
 "button": "Saiba Mais",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "id": "8",
@@ -114,37 +114,37 @@
 "title": "REVENDA",
 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin libero vitae nulla interdum, cursus interdum arcu eleifend.",
 "button": "Saiba Mais",
-"link": "#"
+"link": "/alojamento"
 }
 ],
 "faqs": [
 {
 "question": "O QUE É ALOJAMENTO WEB?",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "question": "QUAL DEVO ESCOLHER: LINUX OU WINDOWS?",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "question": "DIFERENÇAS ENTRE ALOJAMENTO SATA, SSD E NVME?",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "question": "ONDE ESTÃO OS SERVIDORES DA LUSOALOJA?",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "question": "QUAL É O HARDWARE UTILIZADO NOS SERVIDORES DE ALOJAMENTO?",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "question": "JÁ TENHO O MEU DOMÍNIO, POSSO TER ALOJAMENTO NA LUSOALOJA?",
-"link": "#"
+"link": "/alojamento"
 },
 {
 "question": "COMO TRANSFERIR O MEU SITE PARA A LUSOALOJA?",
-"link": "#"
+"link": "/alojamento"
 }
 ]
 }
